@@ -1,6 +1,12 @@
 
 Отправить в Postman запрос по протоколу Protocol: http,IP: 162.55.220.72 и порту Port: 5005 
 <br/>
+Test data :
+
+Name - Mike
+Age- 40
+Weight - 57
+Salary - 2000
 
 EP_1
 ==================
