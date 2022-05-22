@@ -3,9 +3,9 @@
 <br/>
 Test data :
 
-Name - Mike
-Age- 40
-Weight - 57
+Name - Mike,
+Age- 40,
+Weight - 57,
 Salary - 2000
 
 EP_1
