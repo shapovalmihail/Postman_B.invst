@@ -3,10 +3,10 @@
 <br/>
 Test data :
 
-Name - Mike,
-Age- 40,
-Weight - 57,
-Salary - 2000
+|Name|Age|Weight|Salary|
+|----|----|----|----|
+|Mike|40 | 57 | 2000 |
+
 
 EP_1
 ==================
